@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BazaZaliczenie/BazaZaliczenie.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
